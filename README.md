@@ -1,2 +1,2 @@
-# Introdu-ao-Java
-O que aprendi e desenvolvi durante o curso básico/intermediário de Java
+# Apis de teste 
+Apis de teste para aprendizado em Java como introdução ao ecossistema Spring
